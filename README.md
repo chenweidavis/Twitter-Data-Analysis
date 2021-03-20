@@ -10,8 +10,12 @@ Twitter's stream live data can be retrieved through Twitter's API once you have 
  * Python 3.6
  * Jupyter Notebook
 
+### 3. Files
+Requirement.txt - List of necessary Python libraries
+tweets.txt - Stream data in json format from Twitter
+codepurpose_Chen Wei.ipynb - Jupyter Notebook file of the project
 
-### 3. General Project Steps
+### 4. General Project Steps
 
 1. Create stream lisenter.
 2. Store stream data into a txt file in local path.
@@ -20,14 +24,14 @@ Twitter's stream live data can be retrieved through Twitter's API once you have 
 5. Plot out required data analysis figure.
 
 
-### 4. Run notebook on local machine
+### 5. Run notebook on local machine
 
-1. Download txt file and ipynb file to local.
-2. Install all necessary libraries following Requirement.txt
-3. Create Twitter's developer account and obtain the consumer & acess key
-4. Add your own consumer and access key into scripts
+1. Download and store all txt files and ipynb file to your own working path in local.
+3. Install all necessary libraries following Requirement.txt
+4. Create Twitter's developer account and obtain the consumer & acess key
+5. Add your own consumer and access key into scripts
    * consumer_key = 'xxxxxxxxx'
    * consumer_secret = 'xxxxxxxxx' 
    * access_token = 'xxxxxxxxx'
    * access_secret = 'xxxxxxxxx'
-5. Run ipynb file locally.
+6. Run ipynb file locally.
