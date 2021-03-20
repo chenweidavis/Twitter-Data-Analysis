@@ -11,7 +11,7 @@ Twitter's stream live data can be retrieved through Twitter's API once you have 
  * Jupyter Notebook
 
 
-### 3. Steps
+### 3. General Project Steps
 
 1. Create stream lisenter.
 2. Store stream data into a txt file in local path.
@@ -24,9 +24,10 @@ Twitter's stream live data can be retrieved through Twitter's API once you have 
 
 1. Download txt file and ipynb file to local.
 2. Install all necessary libraries following Requirement.txt
-3. Add your own consumer and access key into scripts
+3. Create Twitter's developer account and obtain the consumer & acess key
+4. Add your own consumer and access key into scripts
    * consumer_key = 'xxxxxxxxx'
    * consumer_secret = 'xxxxxxxxx' 
    * access_token = 'xxxxxxxxx'
    * access_secret = 'xxxxxxxxx'
-4. Run ipynb file locally.
+5. Run ipynb file locally.
