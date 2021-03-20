@@ -28,7 +28,7 @@ codepurpose_Chen Wei.ipynb - Jupyter Notebook file of the project
 
 1. Download and store all txt files and ipynb file to your own working path in local.
 3. Install all necessary libraries following Requirement.txt
-4. Create Twitter's developer account and obtain the consumer & acess key
+4. Create Twitter's developer account and obtain the consumer & acess key  [Access Link](https://developer.twitter.com/en/apply-for-access)
 5. Add your own consumer and access key into scripts
    * consumer_key = 'xxxxxxxxx'
    * consumer_secret = 'xxxxxxxxx' 
