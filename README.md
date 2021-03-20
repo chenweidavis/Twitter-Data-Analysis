@@ -7,7 +7,7 @@ Twitter's stream live data can be retrieved through Twitter's API once you have 
 
 ### 2. Tools
 
- * Python 3.6
+ * Python 3.6.1
  * Jupyter Notebook
 
 ### 3. Files
