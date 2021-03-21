@@ -11,9 +11,9 @@ Twitter's stream live data can be retrieved through Twitter's API once you have 
  * Jupyter Notebook
 
 ### 3. Files
-Requirement.txt - List of necessary Python libraries
-tweets.txt - Stream data in json format from Twitter
-codepurpose_Chen Wei.ipynb - Jupyter Notebook file of the project
+ * Requirement.txt - List of necessary Python libraries
+ * tweets.txt - Stream data in json format from Twitter
+ * codepurpose_Chen Wei.ipynb - Jupyter Notebook file of the project
 
 ### 4. General Project Steps
 
