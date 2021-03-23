@@ -17,7 +17,7 @@ Twitter's stream live data can be retrieved through Twitter's API once you have 
 
 ### 4. General Project Steps
 
-1. Create stream lisenter.
+1. Create stream listener.
 2. Store stream data into a txt file in local path.
 3. Calling data from local file.
 4. Doing necessary data transformation.
